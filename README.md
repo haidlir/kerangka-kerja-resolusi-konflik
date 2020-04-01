@@ -9,4 +9,12 @@ Pastinya masih banyak yang perlu diperbaiki dari canvas berikut dan harus terus 
 
 Cukup sudah ke-sotoy-an saya dengan canvas ini. Dan bila ada yang ingin berkontribusi dalan mengembangkan kerangka kerja tersebut dan langsung mengakses source-code gambar tersebut di link berikut.
 
+https://github.com/haidlir/kerangka-kerja-resolusi-konflik
+
 Terima kasih.
+
+Credit:
+- Sumber-sumber di Internet yang tidak dapat disebutkan satu-per-satu
+
+Desclaimer:
+- Canvas ini bukan murni pemikiran saya, hanya hasil kompilasi dan coba diterapkan di pengalaman konflik yang sedang saya temui
